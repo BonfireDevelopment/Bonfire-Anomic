@@ -1,2 +1,2 @@
 # Bonfire-Anomic
-Bonfire.
+Bonfire, coming soon.
